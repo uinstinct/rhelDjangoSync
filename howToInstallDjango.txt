@@ -1,0 +1,65 @@
+    1  firefox
+    2  for((i=1; i<=10; i++)
+    3  for((i=1; i<=10; i++)); do gnome-terminal; donem
+    4  for((i=1; i<=10; i++)); do gnome-terminal; done
+    5  gnome-terminal
+    6  python3
+    7  pip3 list
+    8  pip install numpy
+    9  pip3 install numpy
+   10  pip3 list
+   11  date > f.txt
+   12  cat f.txt
+   13  xyz > g.txt
+   14  pip3 import numpy
+   15  pip3 install numpy
+   16  sudo -i
+   17  ls
+   18  firefox
+   19  date
+   20  killall firefox
+   21  ls -q
+   22  whoami
+   23  j9
+   24  wget https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+   25  dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+   26  sudo dnf install https://dl.fedoraproject.org/pub/epel/epel-release-latest-8.noarch.rpm
+   27  vlc
+   28  ifconfig enp0s3
+   29  systemctl stop firewalld
+   30  systemctl start httpd
+   31  search
+   32  sudo rpm --import https://packages.microsoft.com/keys/microsoft.asc
+   33  echo
+   34  sudo sh -c 'echo -e "[code]\nname=Visual Studio Code\nbaseurl=https://packages.microsoft.com/yumrepos/vscode\nenabled=1\ngpgcheck=1\ngpgkey=https://packages.microsoft.com/keys/microsoft.asc" > /etc/yum.repos.d/vscode.repo'
+   35  code myfile
+   36  sudo dnf install code
+   37  code
+   38  cd
+   39  ls
+   40  mkdir djangoLearn
+   41  cd djangoLearn
+   42  cd djangoDemo
+   43  mkdir djangoDemo
+   44  cd djangoDemo
+   45  cd ..
+   46  rm djangoDemo
+   47  rm -rf  djangoDemo
+   48  mkdir djangogirls
+   49  cd djangogirls
+   50  python3 -m venv myvenn
+   51  cd .. 
+   52  rm -rf djangogirls
+   53  mkdir djangogirls
+   54  rm -rf djangogirls
+   55  mkdir djangogirls
+   56  cd djangogirls
+   57  python3 -m venv myvenv
+   58  source myvenv/bin/activate
+   59  python -m pip install --upgrade pip
+   60  pip install -r requirements.txt
+   61  dnf install git
+   62  sudo dnf install git
+   63  history
+   64  cd
+   65  history | cat>howToInstallDjango.txt

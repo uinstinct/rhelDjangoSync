@@ -1,0 +1,223 @@
+Looking for git in: git
+Using git 2.18.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/uinstinct/djangoLearn/sociostudents
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :sociostudents/templates/homepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/homepage.html
+> git check-ignore -v -z --stdin
+> git cat-file -s 8c1696f1f0cdc8f853d07d5316e8f5a673de5663
+> git show :sociostudents/views.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/views.py
+> git cat-file -s 1cb97db59a8c1e36c42ebcae74372e1f32d98acf
+> git check-ignore -v -z --stdin
+> git show :sociostudents/templates/homepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/homepage.html
+> git cat-file -s 8c1696f1f0cdc8f853d07d5316e8f5a673de5663
+> git check-ignore -v -z --stdin
+> git show :sociostudents/static/css/homepage.css
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/static/css/homepage.css
+> git cat-file -s 1d6f929798b5867f94bbc8d1beff58587d111b96
+> git show :sociostudents/urls.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/urls.py
+> git cat-file -s 557c8f181ad6350a57dc43a84928752111d10559
+> git show :sociostudents/admin.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/admin.py
+> git cat-file -s 7d1356ce598bfefe3a8a33536b7ee80ddcd8163b
+> git show :sociostudents/models.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/models.py
+> git cat-file -s 3510c03f8e2cbc3d80cb28bd5564af38eb2422a2
+> git show :myownsite/settings.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/myownsite/settings.py
+> git cat-file -s 8a572705e5943482f2eaa5df414cdc3ff7616c07
+> git check-ignore -v -z --stdin
+> git show :sociostudents/__init__.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/__init__.py
+> git cat-file -s e69de29bb2d1d6434b8b29ae775ad8c2e48c5391
+> git check-ignore -v -z --stdin
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :sociostudents/templates/students/all_students.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/all_students.html
+> git cat-file -s 503f29bcf6cc4972029c2b5469e7bc5373536e5c
+> git show :sociostudents/templates/students/list_student.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/list_student.html
+> git cat-file -s 7ff0996247b42b63ebec8de217cbe17695f5ced4
+> git show :sociostudents/templates/landingpage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/landingpage.html
+> git show :sociostudents/templates/homepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/homepage.html
+> git cat-file -s 8c1696f1f0cdc8f853d07d5316e8f5a673de5663
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git show :sociostudents/templates/landingpage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/landingpage.html
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/landingpage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/landingpage.html
+> git show :sociostudents/templates/homepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/homepage.html
+> git cat-file -s 8c1696f1f0cdc8f853d07d5316e8f5a673de5663
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/views.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/views.py
+> git cat-file -s 1cb97db59a8c1e36c42ebcae74372e1f32d98acf
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/students/profilepage.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/profilepage.html
+> git show :sociostudents/templates/students/new_student.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/new_student.html
+> git cat-file -s 3c80be8d44ca7a0b039f224478e5e56a9019b82b
+> git show :sociostudents/templates/students/list_student.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/list_student.html
+> git cat-file -s 7ff0996247b42b63ebec8de217cbe17695f5ced4
+> git show :sociostudents/templates/students/base.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/base.html
+> git cat-file -s e08364c9ce8f549751e2e7254cc7303ee5d1cac0
+> git show :sociostudents/templates/students/all_students.html
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/sociostudents/templates/students/all_students.html
+> git cat-file -s 503f29bcf6cc4972029c2b5469e7bc5373536e5c
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git check-ignore -v -z --stdin
+> git show :requirements.txt
+> git ls-files --stage -- /home/uinstinct/djangoLearn/sociostudents/requirements.txt
+> git cat-file -s 757f24ba0753aedd7a4a0b8fc452e90fd77daa68
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template

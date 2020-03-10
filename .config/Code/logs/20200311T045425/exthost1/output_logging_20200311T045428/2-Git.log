@@ -1,0 +1,87 @@
+Looking for git in: git
+Using git 2.18.1 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /home/uinstinct/djangoLearn/djangogirls
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :requirements.txt
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/requirements.txt
+> git cat-file -s 757f24ba0753aedd7a4a0b8fc452e90fd77daa68
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :Procfile
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/Procfile
+> git check-ignore -v -z --stdin
+> git show :runtime.txt
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/runtime.txt
+> git check-ignore -v -z --stdin
+> git show :mysite/local_settings.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/mysite/local_settings.py
+> git check-ignore -v -z --stdin
+> git show :mysite/settings.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/mysite/settings.py
+> git cat-file -s 20d0349023f9ea28e55bd1c7f4edbf455814c2fb
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :mysite/wsgi.py
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/mysite/wsgi.py
+> git cat-file -s 45e28c9a193bbc0df9f52f85b7cc75122951f7bd
+> git check-ignore -v -z --stdin
+> git status -z -u
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+fatal: no upstream configured for branch 'master'
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git config --get commit.template
+> git show :.gitignore
+> git ls-files --stage -- /home/uinstinct/djangoLearn/djangogirls/.gitignore
+> git cat-file -s 0b3f81ac1fc204ebb462ff460f6cafd2ff8bb8cc
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
